@@ -1,5 +1,5 @@
 # ByteBankers
-A repsository for the NCPCI Hackathon
+A repsository for the NPCI Hackathon
 # Byte Points System
 
 The Byte Points System is a universal loyalty program that allows customers to earn and redeem "byte points" across multiple sellers, creating a unified ecosystem for rewards. This system ensures that sellers can issue loyalty points without incurring loss when customers use points across platforms.
