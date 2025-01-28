@@ -1,7 +1,7 @@
 # ByteBankers
 A repsository for the NPCI Hackathon
 
-##Team Members
+## Team Members
 1) Arnav Mahishi (Leader)
 2) Arnav Yadnopavit
 3) Balaji Balamurugan
